@@ -1,0 +1,11 @@
+{
+  "name": "tele-talk-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "twitter-api-v2": "^1.15.0"
+  }
+}
