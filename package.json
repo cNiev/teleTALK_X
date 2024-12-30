@@ -1,7 +1,7 @@
 {
   "name": "tele-talk-bot",
   "version": "1.0.0",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
@@ -9,3 +9,4 @@
     "twitter-api-v2": "^1.15.0"
   }
 }
+
